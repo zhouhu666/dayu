@@ -1,0 +1,4 @@
+<div class="container">
+    <text style="left: {{percent}}%;font-size: 30px;color:#1859d1;margin-left: -30px;" >{{percent}}%</text>
+    <progress percent="{{percent}}" />
+</div>
