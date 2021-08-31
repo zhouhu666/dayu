@@ -1,6 +1,6 @@
 <element name="progresswithtext" src="../progresswithtext/progresswithtext.hml"></element>
 <div class="container">
     <text>{{title}}</text>
-    <progresswithtext percent="83" style="width: 600px; height: 150px;" ></progresswithtext>
+    <progresswithtext percent="83" style="width: 6000px; height: 1500px;" ></progresswithtext>
 </div>
 
