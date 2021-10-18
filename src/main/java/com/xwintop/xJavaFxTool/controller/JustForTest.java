@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class JustForTest {
+    public static final String TOKEN_ACB = "123123123";
 
     public static void main(String[] args) {
         List<String> as = new ArrayList<>();
@@ -12,6 +13,6 @@ public class JustForTest {
         System.out.println("hello world");
         Collections.emptyList();//for sonarlint
         System.out.println("hello world");
-
+        System.out.println(TOKEN_ACB);
     }
 }
