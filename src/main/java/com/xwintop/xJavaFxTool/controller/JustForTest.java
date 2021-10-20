@@ -12,6 +12,7 @@ public class JustForTest {
         as.add("hello world ");
         System.out.println("hello world");
         Collections.emptyList();//for sonarlint
+
         System.out.println("hello world");
         System.out.println(TOKEN_ACB);
     }
