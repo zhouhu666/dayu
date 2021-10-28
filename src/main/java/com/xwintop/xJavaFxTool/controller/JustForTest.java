@@ -13,7 +13,7 @@ public class JustForTest {
     public static void main(String[] args) {
         List<String> as = new ArrayList<>();
         as.add("hello world ");
-        //add for gray push 。5
+        //add for gray push 。6
         System.out.println("hello world");
         Collections.emptyList();//for sonarlint
         System.out.println("hello world");
