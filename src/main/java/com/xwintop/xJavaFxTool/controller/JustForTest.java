@@ -14,6 +14,7 @@ public class JustForTest {
         List<String> as = new ArrayList<>();
         as.add("hello world ");
         //add for gray push 。9
+
         System.out.println("hello world");
         Collections.emptyList();//for sonarlint
         System.out.println("hello world");
