@@ -36,7 +36,7 @@ public class Main extends Application {
     private static Stage stage;
 
     public static void main(String[] args) {
-
+        System.out.println("ceshi");
         XJavaFxSystemUtil.initSystemLocal();    // 初始化本地语言
         XJavaFxSystemUtil.addJarByLibs();       // 添加外部jar包
 
