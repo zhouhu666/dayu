@@ -85,7 +85,7 @@ public class IndexController extends IndexView {
         initService();
         initNotepad();
 
-        this.indexService.addWebView(RESOURCE_BUNDLE.getString("feedback"), QQ_URL, null);
+        this.indexService.addWebView(RESOURCE_BUNDLE.getString("feedbadck"), QQ_URL, null);
         this.tongjiWebView.getEngine().load(STATISTICS_URL);
     }
 
