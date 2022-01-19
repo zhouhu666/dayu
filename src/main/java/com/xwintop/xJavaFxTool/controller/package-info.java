@@ -6,7 +6,7 @@
  * @Package: com.xwintop.xJavaFxTool.controller 
  * @Description: 视图控制层包
  * @author: xufeng   
- * @date: 2017年7月20日 上午9:11:11 
+ * @date: 2017年7月20日 上3午9:11:11
  * @version: V1.0   
  */
 package com.xwintop.xJavaFxTool.controller;
