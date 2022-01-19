@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class JustForTest {
-    public static final String TOGEN_ACB = "123123123";
+    public static final String TOGEN_ACB = "123d123123";
 
     public static void main(String[] args) {
         List<String> as = new ArrayList<>();
