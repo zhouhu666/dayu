@@ -6,6 +6,7 @@ import java.util.List;
 
 public class JustForTest {
     public static final String TOGEN_ACB = "123d1231231212";
+    public static final String TOGEN_ACB2 = "123d1231231212";
 
     public static void main(String[] args) {
         List<String> as = new ArrayList<>();
