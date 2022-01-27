@@ -49,6 +49,7 @@ import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
 /**
+ * some changes
  * @ClassName: IndexController
  * @Description: 主页
  * @author: xufeng
