@@ -1,12 +1,11 @@
 package com.xwintop.xJavaFxTool.controller;
 
 /**
- * FB2 change1
- * FB2 change2
+ * fb1 change
  */
-public class Fb2 {
+public class Fb2N {
 
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("1");
     }
 }
