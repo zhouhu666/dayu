@@ -5,6 +5,5 @@ package com.xwintop.xJavaFxTool.config;
  * Created by zhouHu on  2021/12/23 11:17
  */
 public class SysConfig {
-    //sss
-    //sdsds
+    //sssdsds
 }
