@@ -16,6 +16,7 @@ public class NotepadController extends NotepadView {
 
     private int counter = 0;
 
+
     public void initialize() {
         tabPane.getSelectionModel().selectedIndexProperty().addListener(((observable, oldValue, newValue) -> {
             int index = newValue.intValue();
