@@ -71,6 +71,9 @@ public class IndexController extends IndexView {
 
     private ContextMenu contextMenu = new ContextMenu();
 
+    /**
+     * @return test
+     */
     public static FXMLLoader getFXMLLoader() {
         URL url = Object.class.getResource("/com/xwintop/xJavaFxTool/fxmlView/Index.fxml");
         return new FXMLLoader(url, RESOURCE_BUNDLE);
