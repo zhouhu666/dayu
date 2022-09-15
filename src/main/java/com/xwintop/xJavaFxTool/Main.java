@@ -29,6 +29,8 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class Main extends Application {
 
+
+
     public static final String LOGO_PATH = "/images/icon.jpg";
 
     public static ResourceBundle RESOURCE_BUNDLE;
