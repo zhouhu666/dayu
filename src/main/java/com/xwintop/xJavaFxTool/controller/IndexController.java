@@ -72,6 +72,7 @@ public class IndexController extends IndexView {
     private ContextMenu contextMenu = new ContextMenu();
 
     /**
+     * 1212
      * @return test
      */
     public static FXMLLoader getFXMLLoader() {
