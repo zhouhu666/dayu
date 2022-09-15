@@ -44,5 +44,7 @@ public class AppTest
         assertNull( null );
         assertNull( null );
         assertNull( null );
+        assertNull( null );
+        assertNull( null );
     }
 }
