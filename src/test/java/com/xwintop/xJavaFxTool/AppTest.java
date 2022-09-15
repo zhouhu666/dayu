@@ -39,5 +39,6 @@ public class AppTest
     public void testAppNull()
     {
         assertNull( null );
+        assertNull( null );
     }
 }
