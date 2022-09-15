@@ -73,6 +73,8 @@ public class IndexController extends IndexView {
 
     /**
      * 1212
+     *
+     *
      * @return test
      */
     public static FXMLLoader getFXMLLoader() {
