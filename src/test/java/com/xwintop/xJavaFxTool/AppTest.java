@@ -35,4 +35,16 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void testAppNull()
+    {
+        assertNull( null );
+        assertNull( null );
+        assertNull( null );
+        assertNull( null );
+        assertNull( null );
+        assertNull( null );
+        assertNull( null );
+        assertNull( null );
+    }
 }
